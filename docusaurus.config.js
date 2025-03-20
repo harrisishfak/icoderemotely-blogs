@@ -15,15 +15,17 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://blog.icoderemotely.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
+  trailingSlash: false, // ✅ Ensures clean URLs for SEO
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'harrisishfak', // Usually your GitHub org/user name.
+  projectName: 'icoderemotely-blogs', // Usually your repo name.
+  deploymentBranch: 'gh-pages', // ✅ Ensure the deployment branch is set
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -35,6 +37,18 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
+
+
+// Google analytic tag
+  plugins: [
+    [
+      '@docusaurus/plugin-google-gtag',
+      {
+        trackingID: 'G-WFEBBNFN4E',
+        anonymizeIP: true, // Optional: Anonymize visitor IPs
+      },
+    ],
+],
 
   presets: [
     [
