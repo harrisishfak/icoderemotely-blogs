@@ -10,8 +10,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Harris Ishfak',
+  tagline: '🚀 Software Engineer | Founder of iCodeRemotely | Making Tech Fun & Scalable',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -88,55 +88,66 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/myphoto.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Harris Ishfak',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
         },
         items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Tutorial',
-          },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
+          {to: '/blog', label: 'Blogs', position: 'left'},
+          {to: '/blog', label: 'Learning', position: 'left'},
+          // {
+          //   href: 'https://www.instagram.com/harris_ishfak?igsh=MXE1YWYyN2U2dmZkZA%3D%3D&utm_source=qr',
+          //   label: 'Instagram',
+          //   position: 'right',
+          // },
         ],
       },
       footer: {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Links',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
+                href: 'https://www.instagram.com/harris_ishfak?igsh=MXE1YWYyN2U2dmZkZA%3D%3D&utm_source=qr',
+                label: 'Instagram',
+                position: 'right',
+               },
+               {
+                href: 'https://www.linkedin.com/in/harrisishfaq/',
+                label: 'Linkedin',
+                position: 'right',
+               },
+               {
+                href: '#',
+                label: 'Youtube',
+                position: 'right',
+               },
+               {
+                href: 'https://icoderemotely.com',
+                label: 'Company',
+                position: 'right',
+               },
             ],
           },
           {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Whatsapp',
+                href: 'https://chat.whatsapp.com/CpDsDeWXzHOLdQ6J9wffa0',
               },
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discord.gg/pxpdReYh',
               },
-              {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
-              },
+              // {
+              //   label: 'X',
+              //   href: 'https://x.com/docusaurus',
+              // },
             ],
           },
           {
@@ -146,14 +157,14 @@ const config = {
                 label: 'Blog',
                 to: '/blog',
               },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
+              // {
+              //   label: 'GitHub',
+              //   href: 'https://github.com/facebook/docusaurus',
+              // },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Harris Ishfak. Made with ❤️`,
       },
       prism: {
         theme: prismThemes.github,
