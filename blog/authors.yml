@@ -1,19 +1,19 @@
-# yangshun:
-#   name: Yangshun Tay
-#   title: Front End Engineer @ Facebook
-#   url: https://github.com/yangshun
-#   image_url: https://github.com/yangshun.png
-#   page: true
-#   socials:
-#     x: yangshunz
-#     github: yangshun
+yangshun:
+  name: Yangshun Tay
+  title: Front End Engineer @ Facebook
+  url: https://github.com/yangshun
+  image_url: https://github.com/yangshun.png
+  page: true
+  socials:
+    x: yangshunz
+    github: yangshun
 
 
 harris:
   name: Harris Ishfak
   title: CEO & Founder, iCodeRemotely
   url: https://github.com/yangshun
-  image_url: img/myphoto (1).jpg
+  image_url: https://github.com/yangshun.png
   page: true
   socials:
     x: harris
@@ -21,16 +21,16 @@ harris:
     youtube: harris
     linkedin: sebastienlorber
 
-# slorber:
-#   name: Sébastien Lorber
-#   title: Docusaurus maintainer
-#   url: https://sebastienlorber.com
-#   image_url: https://github.com/slorber.png
-#   page:
-    # customize the url of the author page at /blog/authors/<permalink>
-  #   permalink: '/all-sebastien-lorber-articles'
-  # socials:
-  #   x: sebastienlorber
-  #   linkedin: sebastienlorber
-  #   github: slorber
-  #   newsletter: https://thisweekinreact.com
+slorber:
+  name: Sébastien Lorber
+  title: Docusaurus maintainer
+  url: https://sebastienlorber.com
+  image_url: https://github.com/slorber.png
+  page:
+    #customize the url of the author page at /blog/authors/<permalink>
+    permalink: '/all-sebastien-lorber-articles'
+  socials:
+    x: sebastienlorber
+    linkedin: sebastienlorber
+    github: slorber
+    newsletter: https://thisweekinreact.com
