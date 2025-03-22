@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkicr_blog=self.webpackChunkicr_blog||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"CEO Message and instructions","permalink":"/blog/ceo-message","unlisted":false,"date":"2025-03-10T00:00:00.000Z"}]}')}}]);
