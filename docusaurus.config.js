@@ -11,11 +11,11 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Harris Ishfak',
-  tagline: '🚀 Software Engineer | Founder of iCodeRemotely | Making Tech Fun & Scalable',
+  tagline: '💻 Software Engineer | 🚀 Founder of iCodeRemotely | 💡 Making Tech Fun & Scalable',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://blog.icoderemotely.com',
+  url: 'https://harrisishfak.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -96,8 +96,16 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-          {to: '/blog', label: 'Blogs', position: 'left'},
-          {to: '/blog', label: 'Learning', position: 'left'},
+         
+          {to: '/blog', label: 'Blog', position: 'left'},
+
+          {
+            type: 'docSidebar',
+            sidebarId: 'defaultSidebar',
+            position: 'left',
+            label: 'Learning',
+          },
+          
           // {
           //   href: 'https://www.instagram.com/harris_ishfak?igsh=MXE1YWYyN2U2dmZkZA%3D%3D&utm_source=qr',
           //   label: 'Instagram',
@@ -112,12 +120,12 @@ const config = {
             title: 'Links',
             items: [
               {
-                href: 'https://www.instagram.com/harris_ishfak?igsh=MXE1YWYyN2U2dmZkZA%3D%3D&utm_source=qr',
+                href: 'https://www.instagram.com/harrisishfak?igsh=MXE1YWYyN2U2dmZkZA%3D%3D&utm_source=qr',
                 label: 'Instagram',
                 position: 'right',
                },
                {
-                href: 'https://www.linkedin.com/in/harrisishfaq/',
+                href: 'https://www.linkedin.com/in/harrisishfak/',
                 label: 'Linkedin',
                 position: 'right',
                },
@@ -157,6 +165,16 @@ const config = {
                 label: 'Blog',
                 to: '/blog',
               },
+              {
+                label: 'Learning',
+                to: '/docs/intro'
+              },
+              // {
+              //   type: 'docSidebar',
+              //   sidebarId: 'defaultSidebar',
+              //   position: 'left',
+              //   label: 'Learning',
+              // },
               // {
               //   label: 'GitHub',
               //   href: 'https://github.com/facebook/docusaurus',
