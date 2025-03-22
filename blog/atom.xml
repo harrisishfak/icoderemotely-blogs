@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://blog.icoderemotely.com/blog</id>
+    <id>https://harrisishfak.com/blog</id>
     <title>Harris Ishfak Blog</title>
     <updated>2025-03-10T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://blog.icoderemotely.com/blog"/>
+    <link rel="alternate" href="https://harrisishfak.com/blog"/>
     <subtitle>Harris Ishfak Blog</subtitle>
-    <icon>https://blog.icoderemotely.com/img/favicon.ico</icon>
+    <icon>https://harrisishfak.com/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[CEO Message and instructions]]></title>
-        <id>https://blog.icoderemotely.com/blog/ceo-message</id>
-        <link href="https://blog.icoderemotely.com/blog/ceo-message"/>
+        <id>https://harrisishfak.com/blog/ceo-message</id>
+        <link href="https://harrisishfak.com/blog/ceo-message"/>
         <updated>2025-03-10T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[This is the summary of a very long blog post,]]></summary>
         <content type="html"><![CDATA[<p>This is the summary of a very long blog post,</p>

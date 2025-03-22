@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Harris Ishfak Blog</title>
-        <link>https://blog.icoderemotely.com/blog</link>
+        <link>https://harrisishfak.com/blog</link>
         <description>Harris Ishfak Blog</description>
         <lastBuildDate>Mon, 10 Mar 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>en</language>
         <item>
             <title><![CDATA[CEO Message and instructions]]></title>
-            <link>https://blog.icoderemotely.com/blog/ceo-message</link>
-            <guid>https://blog.icoderemotely.com/blog/ceo-message</guid>
+            <link>https://harrisishfak.com/blog/ceo-message</link>
+            <guid>https://harrisishfak.com/blog/ceo-message</guid>
             <pubDate>Mon, 10 Mar 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[This is the summary of a very long blog post,]]></description>
             <content:encoded><![CDATA[<p>This is the summary of a very long blog post,</p>
