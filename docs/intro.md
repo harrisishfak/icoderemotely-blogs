@@ -1,47 +1,51 @@
 ---
 sidebar_position: 1
 ---
-
 # Tutorial Intro
+## Welcome to Learning 🚀
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Hey everyone! I'm **Harris Ishfak**, a software engineer, founder of iCodeRemotely, and someone passionate about sharing knowledge. If you're looking to grow as a developer and understand real-world software engineering beyond just coding, you're in the right place!
 
-## Getting Started
+### What You'll Learn
 
-Get started by **creating a new site**.
+In this tutorial series, I'll cover a variety of topics in **both text and video formats**, making sure you get hands-on insights into:
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
 
-### What you'll need
+#### 📆 A Day in the Life of a Software Engineer
+- Behind the scenes of my work routine
+- Productivity hacks & time management
+- Insights into running a software business
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+#### 🚀 Growing an IT Business from Scratch
+- How to start your own software consultancy or SaaS
+- Client hunting strategies and networking tips
+- Scaling your business from solo developer to a full team
 
-## Generate a new site
+#### 💰 Side Hustles for Software Engineers
+- Freelancing and remote work opportunities
+- Building passive income with software projects
+- Teaching, blogging, and content creation for extra income
 
-Generate a new Docusaurus site using the **classic template**.
+#### 🛠 Daily Challenges in Software Engineering
+- Debugging real-world issues
+- Tackling unexpected production failures
+- Managing workloads efficiently
 
-The classic template will automatically be added to your project after you run the command:
+#### 💻 Development & Best Practices
+- Writing clean, maintainable, and efficient code
+- Exploring modern programming languages and frameworks
+- Deployment strategies and CI/CD workflows
 
-```bash
-npm init docusaurus@latest my-website classic
-```
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+### Join the Journey
 
-## Start your site
+I document my journey from **scratch to scaling a business**, so you’ll get a **first-hand look at growth, struggles, and solutions** in the software world. Plus, you’ll have the **opportunity to join free communities** for mentorship and guidance.
 
-Run the development server:
+Stay tuned for upcoming tutorials, and let’s level up together!
 
-```bash
-cd my-website
-npm run start
-```
+👉 **Youtube [Subscribe for free](#) for video content!**
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+👉 **Community** **[Join for free](https://chat.whatsapp.com/CpDsDeWXzHOLdQ6J9wffa0)** **to keep yourself updated!**
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+🚀 Let's make software fun and interesting for all

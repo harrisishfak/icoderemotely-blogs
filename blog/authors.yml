@@ -11,19 +11,19 @@ yangshun:
 
 harris:
   name: Harris Ishfak
-  title: CEO & Founder, iCodeRemotely
+  title: Founder, iCodeRemotely
   url: https://github.com/harrisishfak
   image_url: https://harrisishfak.github.io/myphoto/myphoto%20(1).jpg
   page: true
   socials:
-    x: harris
-    instagram: harris_ishfak
+    x: harrisishfak
+    instagram: harrisishfak
+    linkedin: harrisishfak
     youtube: harris
-    linkedin: sebastienlorber
 
 slorber:
   name: Sébastien Lorber
-  title: Docusaurus maintainer
+  title: Site maintainer
   url: https://sebastienlorber.com
   image_url: https://github.com/slorber.png
   page:

@@ -93,7 +93,7 @@ const config = {
         title: 'Harris Ishfak',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/software-engineer.svg',
         },
         items: [
          
@@ -103,7 +103,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'defaultSidebar',
             position: 'left',
-            label: 'Learning',
+            label: 'Tutorial',
           },
           
           // {
@@ -120,7 +120,7 @@ const config = {
             title: 'Links',
             items: [
               {
-                href: 'https://www.instagram.com/harrisishfak?igsh=MXE1YWYyN2U2dmZkZA%3D%3D&utm_source=qr',
+                href: 'https://www.instagram.com/harrisishfak/',
                 label: 'Instagram',
                 position: 'right',
                },
@@ -166,7 +166,7 @@ const config = {
                 to: '/blog',
               },
               {
-                label: 'Learning',
+                label: 'Tutorial',
                 to: '/docs/intro'
               },
               // {
