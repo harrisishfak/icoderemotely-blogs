@@ -17,8 +17,3 @@ hola:
   label: Hola
   permalink: /hola
   description: Hola tag description
-
-rubyonrails:
-  label: Ruby On Rails
-  permalink: /rubyonrails
-  description: Docusaurus tag description
