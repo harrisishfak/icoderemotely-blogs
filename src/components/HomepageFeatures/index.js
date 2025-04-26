@@ -3,8 +3,23 @@ import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 
 const FeatureList = [
+
   {
-    title: 'Company',
+    title: 'iChildBloom',
+    Svg: require('@site/static/img/building2.svg').default,
+    description: (
+      <>
+        Autism & Child's Development Support Software <br/>
+         {/* Learn more at{' '} */}
+        <a href="https://ichildbloom.com" target="_blank" rel="noopener noreferrer">
+          Learn more
+        </a>
+      </>
+    ),
+  },
+
+  {
+    title: 'iCodeRemotely',
     Svg: require('@site/static/img/building2.svg').default,
     description: (
       <>
@@ -28,18 +43,18 @@ const FeatureList = [
       </>
     ),
   },
-  {
-    title: 'Youtube',
-    Svg: require('@site/static/img/yyoutube.svg').default,
-    description: (
-      <>
-        Making software fun and interesting for all <br/>
-        <a href="#" target="_blank" rel="noopener noreferrer">
-          Subscribe for free
-        </a>
-      </>
-    ),
-  },
+  // {
+  //   title: 'Youtube',
+  //   Svg: require('@site/static/img/yyoutube.svg').default,
+  //   description: (
+  //     <>
+  //       Making software fun and interesting for all <br/>
+  //       <a href="#" target="_blank" rel="noopener noreferrer">
+  //         Subscribe for free
+  //       </a>
+  //     </>
+  //   ),
+  // },
 ];
 
 function Feature({Svg, title, description}) {

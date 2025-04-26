@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Harris Ishfak',
-  tagline: '💻 Software Engineer | 🚀 Founder of iCodeRemotely | 💡 Making Tech Fun & Scalable',
+  tagline: '💻 Software Engineer | 🚀 Founder of iChildBloom & iCodeRemotely  | 💡 Making Tech Fun & Scalable',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -135,8 +135,13 @@ const config = {
                 position: 'right',
                },
                {
+                href: 'https://ichildbloom.com',
+                label: 'iChildBloom',
+                position: 'right',
+               },
+               {
                 href: 'https://icoderemotely.com',
-                label: 'Company',
+                label: 'iCodeRemotely',
                 position: 'right',
                },
             ],
